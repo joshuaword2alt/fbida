@@ -33,4 +33,4 @@ transforms the exif thumbnail images.
 
 
 ### fork
-it's from this fork https://github.com/joshuaword2alt/FFmpeg
+it's from this fork [ffmpeg-fork](https://github.com/joshuaword2alt/FFmpeg)
