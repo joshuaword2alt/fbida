@@ -30,3 +30,7 @@ ghostscript to render the pdf into a stack of image files for fbi.
 
 Transform jpeg images, like jpegtran, but unlike jpegtran it also
 transforms the exif thumbnail images.
+
+
+### fork
+it's from this fork https://github.com/joshuaword2alt/FFmpeg
